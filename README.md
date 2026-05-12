@@ -45,7 +45,7 @@
 
 ## 🌐 联系方式
 
-- **Telegram：** 600504348
+- **Telegram：** @kxianxiyou
 - **邮箱：** 77050330@qq.com
 - **网站：** https://topranker.xyz
 
