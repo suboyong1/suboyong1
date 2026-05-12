@@ -15,12 +15,11 @@ Real-time Binance Alpha sector rankings with multi-period data (15min/1h/4h/1d/1
 
 ---
 
-## 📈 Core Tools
+## 📚 K-Line West Journey (K线西游战法)
 
-| Tool | Description | Link |
-|------|-------------|------|
-| Alpha Tracker | Binance Alpha Real-time Rankings | [topranker.xyz](https://topranker.xyz) |
-| Rebate Link | Binance rebate registration | [bsmkweb.cc](https://www.bsmkweb.cc/register?ref=KXXYZF1) |
+**367-page Trading Strategy Book**
+
+📖 [View on Google Drive](https://drive.google.com/file/d/1tW0lpAEn1_UoSjH8laTpJs6JLcpm6FRl/view?usp=drive_link)
 
 ---
 
@@ -36,7 +35,7 @@ Real-time Binance Alpha sector rankings with multi-period data (15min/1h/4h/1d/1
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![Last Updated](https://img.shields.io/badge/Updated-2026-05-12-blue?style=flat-square)
 
