@@ -35,12 +35,6 @@ Real-time Binance Alpha sector rankings with multi-period data (15min/1h/4h/1d/1
 
 ---
 
-## 📊 Stats
-
-![Last Updated](https://img.shields.io/badge/Updated-2026-05-12-blue?style=flat-square)
-
----
-
 ## 🌐 Contact
 
 - **Telegram：** @kxianxiyou
@@ -48,4 +42,5 @@ Real-time Binance Alpha sector rankings with multi-period data (15min/1h/4h/1d/1
 
 ---
 
+*Last updated: 2026-05-12 11:33*
 *Disclaimer: All tools are for learning and research only, not investment advice.*
