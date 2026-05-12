@@ -9,17 +9,17 @@
 ### 🚀 Binance Alpha Tracker
 **Website:** https://topranker.xyz
 
-Real-time Binance Alpha sector rankings with multi-period data (15min/1h/4h/1d/1w), auto-refresh every 15 minutes.
+Track top 20 Binance Alpha sector gainers in real-time. Auto-updates every 15min. Multi-timeframe analysis (15m/1h/4h/1d/1w).
 
 👉 Register (Rebate): https://www.bsmkweb.cc/register?ref=KXXYZF1
 
 ---
 
-## 📚 K-Line West Journey (K线西游战法)
+## 📚 K-Line West Journey
 
 **367-page Trading Strategy Book**
 
-📖 [View on Google Drive](https://drive.google.com/file/d/1tW0lpAEn1_UoSjH8laTpJs6JLcpm6FRl/view?usp=drive_link)
+📖 [View on Google Drive](https://drive.google.com/file/d/1tW0lpAEn1_UoSjH8laTpJs6JLcpm6FRl/view)
 
 ---
 
@@ -30,17 +30,16 @@ Real-time Binance Alpha sector rankings with multi-period data (15min/1h/4h/1d/1
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
 </p>
 
 ---
 
 ## 🌐 Contact
 
-- **Telegram：** @kxianxiyou
-- **Website：** https://topranker.xyz
+- **Telegram:** @kxianxiyou
+- **Website:** https://topranker.xyz
 
 ---
 
-*Last updated: 2026-05-12 11:33*
+*Last updated: 2026-05-12*
 *Disclaimer: All tools are for learning and research only, not investment advice.*
