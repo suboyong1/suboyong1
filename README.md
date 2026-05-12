@@ -39,7 +39,6 @@
 
 ## 📊 GitHub 统计
 
-![Visitors](https://topranker.xyz)
 ![Last Updated](https://img.shields.io/badge/Updated-2026-05-12-blue?style=flat-square)
 
 ---
